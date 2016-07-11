@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go-repository-for-test&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Go/src/hello-world" />
+      <root url="file://$PROJECT_DIR$/../../../../Go/src/influxdb-repository" />
+      <root url="file://$PROJECT_DIR$/../../../../Go/src/transaction-reader-go" />
+      <root url="file://$PROJECT_DIR$/../../../../Go/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
